@@ -18,7 +18,7 @@ The registration form includes:
 - Profile Photo
 - Save & Cancel Button
 
-## Live Demo :
+## Live Demo : https://thesumitbhalerao.github.io/html-registration-form/
 
 ## 🛠️ HTML Concepts Used
 
